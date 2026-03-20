@@ -81,6 +81,7 @@ print(df)
 
 ## Output:
  
+<img width="832" height="783" alt="K_MEANS OUTPUT" src="https://github.com/user-attachments/assets/e34a2561-9b29-4bc7-9475-601b372b9ecb" />
 
 
 ## Result:
